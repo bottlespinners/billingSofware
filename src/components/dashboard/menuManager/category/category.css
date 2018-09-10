@@ -1,0 +1,10 @@
+.addCategoryCss {
+    background-color: #2e353d;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    padding: 1%;
+}
+
+.editBtnCss {
+    float: right;
+}
